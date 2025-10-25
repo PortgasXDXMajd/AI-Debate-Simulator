@@ -178,12 +178,12 @@ Open an issue or start a discussion.
 
 ## 🪪 License
 
-MIT License © 2025 — [Your Name]
+MIT License © 2025 — Majd Alkayyal
 
 ---
 
 ## 🌐 Credits
 
-Developed by [Your Name or Team]  
+Developed by Majd Alkayyal 
 Built with ❤️ using FastAPI, Streamlit, and OpenRouter  
 Inspired by the art of debate and the pursuit of truth.
