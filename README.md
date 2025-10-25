@@ -78,25 +78,12 @@ orjson
 
 ---
 
-### 3️⃣ Start the Backend Server
+### 3️⃣ Start the project
 ```bash
-cd backend
-uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+./run.sh
 ```
 
-This launches the FastAPI backend that manages debate sessions and communicates with OpenRouter.
-
----
-
-### 4️⃣ Run the Streamlit Frontend
-In a separate terminal:
-
-```bash
-streamlit run app.py
-```
-
-Open [http://localhost:8501](http://localhost:8501) in your browser.
-
+This launches the FastAPI backend and the frontend
 ---
 
 ## 🔑 OpenRouter API Key
